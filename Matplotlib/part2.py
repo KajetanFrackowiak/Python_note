@@ -1,7 +1,6 @@
 import csv
 from matplotlib import pyplot as plt
 from collections import Counter
-import numpy as np
 import pandas as pd
 
 plt.style.use("fivethirtyeight")
